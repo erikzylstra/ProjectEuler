@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Tools\BinarySearch.fs" />
+    <Compile Include="Tools\Combinatorics.fs" />
+    <Compile Include="Tools\Digits.fs" />
+    <Compile Include="Tools\ExponentialSearch.fs" />
+    <Compile Include="Tools\Factorization.fs" />
+    <Compile Include="Tools\NumericSequences.fs" />
+    <EmbeddedResource Include="p013_numbers.txt" />
+    <EmbeddedResource Include="p022_names.txt" />
+    <Compile Include="Problems\Problem1.fs" />
+    <Compile Include="Problems\Problem2.fs" />
+    <Compile Include="Problems\Problem3.fs" />
+    <Compile Include="Problems\Problem4.fs" />
+    <Compile Include="Problems\Problem5.fs" />
+    <Compile Include="Problems\Problem6.fs" />
+    <Compile Include="Problems\Problem7.fs" />
+    <Compile Include="Problems\Problem8.fs" />
+    <Compile Include="Problems\Problem9.fs" />
+    <Compile Include="Problems\Problem10.fs" />
+    <Compile Include="Problems\Problem11.fs" />
+    <Compile Include="Problems\Problem12.fs" />
+    <Compile Include="Problems\Problem13.fs" />
+    <Compile Include="Problems\Problem14.fs" />
+    <Compile Include="Problems\Problem15.fs" />
+    <Compile Include="Problems\Problem16.fs" />
+    <Compile Include="Problems\Problem17.fs" />
+    <Compile Include="Problems\Problem18.fs" />
+    <Compile Include="Problems\Problem19.fs" />
+    <Compile Include="Problems\Problem20.fs" />
+    <Compile Include="Problems\Problem21.fs" />
+    <Compile Include="Problems\Problem22.fs" />
+    <Compile Include="Problems\Problem23.fs" />
+    <Compile Include="Problems\Problem24.fs" />
+    <Compile Include="Problems\Problem25.fs" />
+    <Compile Include="Problems\Problem26.fs" />
+    <Compile Include="Problems\Problem27.fs" />
+    <Compile Include="Problems\Problem28.fs" />
+    <Compile Include="Problems\Problem29.fs" />
+    <Compile Include="Problems\Problem30.fs" />
+    <Compile Include="Problems\Problem31.fs" />
+    <Compile Include="Problems\Problem32.fs" />
+    <Compile Include="Problems\Problem33.fs" />
+    <Compile Include="Problems\Problem34.fs" />
+    <Compile Include="Problems\Problem35.fs" />
+    <Compile Include="Problems\Problem36.fs" />
+    <Compile Include="Problems\Problem37.fs" />
+    <Compile Include="Problems\Problem38.fs" />
+    <Compile Include="Problems\Problem39.fs" />
+    <Compile Include="Problems\Problem40.fs" />
+    <Compile Include="Problems\Problem41.fs" />
+    <Compile Include="Problems\Problem42.fs" />
+    <Compile Include="Problems\Problem43.fs" />
+    <Compile Include="Problems\Problem44.fs" />
+    <Compile Include="Problems\Problem45.fs" />
+    <Compile Include="Problems\Problem46.fs" />
+    <Compile Include="Problems\Problem47.fs" />
+    <Compile Include="Problems\Problem48.fs" />
+    <Compile Include="Problems\Problem49.fs" />
+    <Compile Include="Problems\Problem50.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

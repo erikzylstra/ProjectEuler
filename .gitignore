@@ -1,0 +1,12 @@
+.vs/
+CSharpSolutions/bin/
+CSharpSolutions/obj/
+FSharpSolutions/bin/
+FSharpSolutions/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
